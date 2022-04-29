@@ -1,10 +1,6 @@
-Connect and control your VAG car with Homey.
+Connect and control your Seat car with Homey.
 
-Requirements: A car with one of the following connected services:
- - VW We Connect
- - We Connect ID
- - We Charge
- - myAudi
- - Skoda Connect
+Requirements: A car with one of the following connected services:t
  - Seat Connect
- - We Connect Go
+
+ Make sure to have a active subscription for your car

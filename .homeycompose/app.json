@@ -1,6 +1,6 @@
 {
   "id": "com.seat.connectedcar",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -12,8 +12,8 @@
     "nl": "Seat Connect"
   },
   "description": {
-    "en": "Always in control",
-    "nl": "Altijd in controle"
+    "en": "Simply stay connected",
+    "nl": "Blijf in verbinding"
   },
   "tags": {
     "en": [
@@ -42,13 +42,13 @@
   },
   "author": {
     "name": "Martijn Poppen",
-    "email": "seat@martijnpoppen.nl"
+    "email": "vag@martijnpoppen.nl"
   },
   "contributors": {
     "developers": [
       {
         "name": "Martijn Poppen",
-        "email": "seat@martijnpoppen.nl"
+        "email": "vag@martijnpoppen.nl"
       }
     ],
     "translators": [
