@@ -6,14 +6,14 @@
   "platforms": [
     "local"
   ],
-  "brandColor": "#000000",
+  "brandColor": "#74a7d2",
   "name": {
     "en": "Seat Connect",
     "nl": "Seat Connect"
   },
   "description": {
-    "en": "Simply stay connected",
-    "nl": "Blijf in verbinding"
+    "en": "Connected with your SEAT",
+    "nl": "Verbonden met jouw SEAT"
   },
   "tags": {
     "en": [
@@ -70,7 +70,7 @@
   "bugs": {
     "url": "https://community.homey.app/62196"
   },
-  "source": "https://github.com/martijnpoppen/com.we-volkswagen.connect",
+  "source": "https://github.com/martijnpoppen/com.seat.connectedcar",
   "homeyCommunityTopicId": 34493,
   "support": "https://community.homey.app/62196"
 }
