@@ -271,5 +271,8 @@
   },
   "1.12.0": {
     "en": "NEW: Lock/Unlock for ID/E-tron/Cupra cars | NEW: IsHome for ID/E-tron/Cupra Cars | NEW: improve device pairin"
+  },
+  "1.12.1": {
+    "en": "FIX: lock/unlock status"
   }
 }
