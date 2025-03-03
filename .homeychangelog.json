@@ -454,5 +454,8 @@
   },
   "1.26.4": {
     "en": "FIX: measure_distance_driven for some models"
+  },
+  "1.28.0": {
+    "en": "ADD: deprecation info message to timeline. "
   }
 }
